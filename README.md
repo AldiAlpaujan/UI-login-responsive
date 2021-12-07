@@ -1,6 +1,7 @@
 # ui_login_responsive
 
-A new Flutter project.
+Sebuah project
+membuat tampilan UI menjadi responsive di berbagai Device
 
 ## Getting Started
 
